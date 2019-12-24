@@ -1,0 +1,8 @@
+{
+  "Sample_Tests.py::test_file_arrival_generator": true,
+  "Sample_Tests.py::test_pushy_passenger_moving_algorithm": true,
+  "Sample_Tests.py::test_random_arrival_generator_zero": true,
+  "Sample_Tests.py::test_random_moving_algorithm": true,
+  "test_simulation.py::test_pushy_passenger": true,
+  "test_simulation.py::test_short_sighted": true
+}

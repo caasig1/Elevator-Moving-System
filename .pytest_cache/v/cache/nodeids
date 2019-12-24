@@ -1,0 +1,6 @@
+[
+  "test_simulation.py::test_random_algorithm_equals",
+  "test_simulation.py::test_file_arrivals_algorithm_equals",
+  "test_simulation.py::test_pushy_passenger",
+  "test_simulation.py::test_short_sighted"
+]
